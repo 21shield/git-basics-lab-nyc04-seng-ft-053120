@@ -1,2 +1,2 @@
-This is the child branch changing the master branch
+This was my intention 
 This is my readme file
